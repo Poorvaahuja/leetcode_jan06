@@ -17,3 +17,6 @@ Profit obtained 150 = 20 + 70 + 60.
 Example 3:
 Input: startTime = [1,1,1], endTime = [2,3,4], profit = [5,6,4]
 Output: 6
+## Q2 
+Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.
+A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
